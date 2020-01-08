@@ -1,0 +1,31 @@
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+body{
+    margin: auto;
+    background-image: url(../b/p/storm_facebook_cover_by_geoffery10-d6uqf49.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    border-bottom: 2px solid #f1f1f1;
+    color: rgb(77, 73, 73);
+    width: 120px;
+    padding: 5px 0px 0px 10px;
+    margin: 10px;
+}
+
+.item{
+    top: 50%;
+    width: 3200px;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    
+    
+    
+}
+
+
